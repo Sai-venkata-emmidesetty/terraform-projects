@@ -7,6 +7,7 @@ variable "ami_number" {
 }
 
 variable "security_groupp" {
+   type=string
   
 }
 
